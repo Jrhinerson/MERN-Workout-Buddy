@@ -1,3 +1,7 @@
+This repository was constructed as a prototype backend structure for testing MongoDB as a reliable means of supporting the Artisan79 ecommerce site.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
